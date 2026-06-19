@@ -147,9 +147,9 @@ For **Simple tasks**, respond naturally without this line.
     │
     ├─ Simple ──→ 直接回應
     │
-    ├─ Medium ──→ 簡短計畫 → 執行 → 提示可調整
+    ├─ Medium ──→ 短計畫 → 執行 → 提示可調整
     │
-    └─ High ──→ Full Framework 計畫 → 確認 → 執行 → 驗證 → 持久化
+    └─ High ──→ Full Framework → 確認 → 執行 → 驗證 → 持久化
 ```
 
 ## 檔案結構
